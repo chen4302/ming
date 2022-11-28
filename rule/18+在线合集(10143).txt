@@ -2782,7 +2782,7 @@ ysn-565渚,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/0bf471ba/index.m3
 ysn-566高瀬,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/96dc5cd0/index.m3u8
 #
 # AdultIPTV
-Blowjob,http://cdn./blowjob.m3u8?#2af289e061a8898c902093820245a7457af527a72df8a638283440b23faa6ea5
+Blowjob,http://cdn./blowjob.m3u8?2af289e061a8898c902093820245a7457af527a72df8a638283440b23faa6ea5
  Gangbang,http://live.redtraffic.net/gangbang.m3u8?f35ce576bc7a89657a2dd33ec7befb248fbde69dca878adab710ead1bf5be37b
  Compilation,http://cdn./compilation.m3u8?52a8871d7c1182aa49c3891a2ef29cbf86ddb5ae17aa9638ea2abc833b693c27
  Brunette,http://cdn./brunette.m3u8?9a99613488874be955b63b940089d9245bb2621350e8875a0dc591e0416c64d7
