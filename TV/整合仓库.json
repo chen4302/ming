@@ -1,9 +1,16 @@
 {
-  "storeHouse": [{
-    "sourceName": "1号仓库",
-    "sourceUrl": "https://gitcode.net/yml329/iptv/-/raw/master/TV/1号仓库.json"
-  }, {
-    "sourceName": "2号仓库",
-    "sourceUrl": "https://gitcode.net/yml329/iptv/-/raw/master/TV/2号仓库.json"
-  }]
+  "urls": [
+    {
+      "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+      "name": "✨线路1"
+    },
+    {
+      "url": "http://152.136.125.181:81/MM/dianbos/yeshijieB.json",
+      "name": "✨线路2"
+    },
+    {
+      "url": "http://miaotvs.cn/osc",
+      "name": "✨线路3"
+    }
+  ]
 }
