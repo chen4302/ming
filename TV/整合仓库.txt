@@ -1,9 +1,9 @@
 {
   "storeHouse": [{
     "sourceName": "1号仓库",
-    "sourceUrl": "https://gitcode.net/yml329/iptv/-/raw/master/TV/1号仓库"
+    "sourceUrl": "https://gitcode.net/yml329/iptv/-/raw/master/TV/1号仓库.json"
   }, {
     "sourceName": "2号仓库",
-    "sourceUrl": "https://gitcode.net/yml329/iptv/-/raw/master/TV/2号仓库"
+    "sourceUrl": "https://gitcode.net/yml329/iptv/-/raw/master/TV/2号仓库.json"
   }]
 }
