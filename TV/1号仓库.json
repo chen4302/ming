@@ -2,15 +2,15 @@
   "urls": [
     {
       "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-      "name": "🕍线路1"
+      "name": "✨线路1"
     },
     {
-      "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
+      "url": "http://152.136.125.181:81/MM/dianbos/yeshijieB.json",
       "name": "✨线路2"
     },
-   {
-      "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
-      "name": "✨多多家庭版"
+    {
+      "url": "http://miaotvs.cn/osc",
+      "name": "✨线路3"
     }
   ]
 }
