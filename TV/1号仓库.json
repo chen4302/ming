@@ -1,12 +1,16 @@
 {
-    "urls": [
-        {
-            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-            "name": "🕍线路1"
-        },
-        {
-            "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
-            "name": "✨线路2"
-        }
-]
+  "urls": [
+    {
+      "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+      "name": "🕍线路1"
+    },
+    {
+      "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
+      "name": "✨线路2"
+    },
+   {
+      "url": "http://miaotvs.cn/osc",
+      "name": "✨线路3"
+    }
+  ]
 }
