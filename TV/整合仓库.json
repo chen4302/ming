@@ -5,8 +5,5 @@
   }, {
     "sourceName": "2号仓库",
     "sourceUrl": "https://gitcode.net/yml329/iptv/-/raw/master/TV/2号仓库.json"
- }, {
-    "sourceName": "3号仓库",
-    "sourceUrl": "https://gitcode.net/yml329/iptv/-/raw/master/TV/3号仓库.json"
   }]
 }
