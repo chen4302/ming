@@ -1,0 +1,32 @@
+{
+  "urls": [
+    {
+      "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
+      "name": "✨自动更新1"
+    },
+    {
+      "url": "http://miaotvs.cn/meow",
+      "name": "✨自动更新2"
+    },
+    {
+      "url": "https://dxawi.github.io/0/0.json",
+      "name": "✨七七看直播"
+    },
+    {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json",
+      "name": "✨看阿里4K_一木自用"
+    },
+    {
+      "url": "http://152.136.125.181:81/MM/dianbos/yeshijieB.json",
+      "name": "✨乐猪影视"
+    },
+    {
+      "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+      "name": "✨小苹果"
+    },
+    {
+      "url": "http://miaotvs.cn/osc",
+      "name": "✨爬虫线路"
+    }
+  ]
+}
