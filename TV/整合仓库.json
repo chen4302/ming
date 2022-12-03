@@ -2,15 +2,15 @@
   "urls": [
     {
       "url": "http://miaotvs.cn/osc",
-      "name": "✨线路1"
+      "name": "✨爬虫线路1"
     },
     {
       "url": "http://152.136.125.181:81/MM/dianbos/yeshijieB.json",
-      "name": "✨线路2"
+      "name": "✨乐猪影视"
     },
     {
       "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-      "name": "✨线路3"
+      "name": "✨小苹果"
     }
   ]
 }
