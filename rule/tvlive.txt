@@ -1,5 +1,4 @@
-央视,#genre#
-
+#央视1
 CCTV1,http://124.220.17.172/as.php?id=1
 
 CCTV2,http://124.220.17.172/as.php?id=2
@@ -119,9 +118,9 @@ CCTV卫生健康,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513503
 CCTV女性时尚,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513903.m3u8
 
 CCTV高尔夫网球,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012512503.m3u8
+#
 
-移动专区,#genre#
-
+#央视2移动专区
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
@@ -166,6 +165,10 @@ CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 
+发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
+#
+
+#卫视1移动专区
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 
 四川卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
@@ -335,5 +338,4 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 置业频道,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
 
 京视剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226242/index.m3u8
-
-发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
+#
