@@ -9,12 +9,8 @@
       "name": "✨自动更新2"
     },
     {
-      "url": "https://dxawi.github.io/0/0.json",
-      "name": "✨七七看直播"
-    },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json",
-      "name": "✨看阿里4K_一木自用"
+      "url": "http://miaotvs.cn/osc",
+      "name": "✨酷云七七(爬虫)"
     },
     {
       "url": "http://152.136.125.181:81/MM/dianbos/yeshijieB.json",
@@ -25,8 +21,12 @@
       "name": "✨小苹果"
     },
     {
-      "url": "http://miaotvs.cn/osc",
-      "name": "✨爬虫线路"
+      "url": "https://dxawi.github.io/0/0.json",
+      "name": "✨七七爬虫(看直播)"
+    },
+    {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json",
+      "name": "✨一木缝合源(看阿里4K)"
     }
   ]
 }
