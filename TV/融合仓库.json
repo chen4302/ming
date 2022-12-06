@@ -20,7 +20,8 @@
       "url": "http://miaotvs.cn/osc",
       "name": "✨酷云七七(爬虫)"
     },
-    { "url": "http://shuyuan.miaogongzi.net/shuyuan/1670381142.json",
+    { 
+      "url": "http://shuyuan.miaogongzi.net/shuyuan/1670381142.json",
       "name": "✨Yml(爬虫看直播)"
     },
     {
