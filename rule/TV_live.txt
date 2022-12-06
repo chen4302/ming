@@ -457,7 +457,7 @@ CCTV16,http://124.220.17.172/as.php?id=16
 溧水影视,https://live.lsrmw.cn/ysyl/sd/live.m3u8
 徐州影视,http://stream1.huaihai.tv/wyys/playlist.m3u8
 徐州影视,http://183.207.248.15/PLTV/3/224/3221225949/index.m3u8
-徐州影视,http://stream1.huaihai.tv/wyys/playlist.m3u8#http://183.207.248.15/PLTV/3/224/3221225949/index.m3u8
+徐州影视,http://183.207.248.15/PLTV/3/224/3221225949/index.m3u8
 经典神剧,http://epg.112114.xyz/douyu/3700024
 未知影视,http://39.135.138.58:18890/TVOD/88888888/224/3221225716/index.m3u8
 济阳影视,https://jsylivealone302.iqilu.com/live/jiyang_tv02.m3u8
@@ -476,7 +476,7 @@ KiD影院10,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318/index.m3u8
 菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
 东方影视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/2300000/mnf.m3u8
 影视频道,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-徐州影视,http://stream1.huaihai.tv/wyys/playlist.m3u8#http://183.207.248.15/PLTV/3/224/3221225949/index.m3u8
+徐州影视,http://183.207.248.15/PLTV/3/224/3221225949/index.m3u8
 吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
 山西影视,http://liveflash.sxrtv.com:80/live/sxfilm.m3u8
 莱山影视,https://jsylivealone302.iqilu.com/laishan/laishan_tv02.m3u8
@@ -484,7 +484,6 @@ KiD影院10,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318/index.m3u8
 东至影视,http://223.247.33.124:1935/live/yingshi/HasBahCa.m3u8
 广东影视,http://183.11.239.32:808/hls/8/index.m3u8
 广东影视,http://py.fatcat.icu:8880/hls/9/index.m3u8
-广东影视,http://183.63.15.42:9901/tsfile/live/1007_1.m3u8#http://183.11.239.32:808/hls/8/index.m3u8
 童年回忆,http://epg.112114.xyz/douyu/10395973
 科幻影视,http://epg.112114.xyz/douyu/3508304
 云南影视,https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
@@ -492,7 +491,7 @@ KiD影院10,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318/index.m3u8
 柳林影视,http://pili-live-hls.212.i2863.com/i2863-212/live_212_316579.m3u8
 滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
 烟台影视,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
-西安影视,http://stream2.xiancity.cn/xatv4/sd/live.m3u8#http://121.31.30.90:8085/ysten-business/live/hdbeijingstv/1.m3u8
+西安影视,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 西安影视,http://111.20.33.70/PLTV/88888893/224/3221226369/index.m3u8
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8
 山西影视,http://liveflash.sxrtv.com:80/live/sxfilm.m3u8
