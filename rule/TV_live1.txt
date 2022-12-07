@@ -76,21 +76,23 @@ CCTV高尔夫网球,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012512
 甘肃卫视,http://218.29.55.44:808/hls/48/index.m3u8
 山西卫视,http://218.29.55.44:808/hls/51/index.m3u8
 青海卫视,http://218.29.55.44:808/hls/52/index.m3u8
-厦门卫视,http://yfsl.vsd.gehua.net.cn/live/XiaMen_2000.m3u8
+
+
+厦门卫视,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xmws/1300000/mnf.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 
 东方卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226261/index.m3u8?
 海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
 南方卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
 新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
-西藏卫视,http://lu1.cc/c/tv/sjtv/p/migu.php?id=xzws
+西藏卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
-兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
+兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-延边卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
 旅游卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225722/index.m3u8
 #
 
