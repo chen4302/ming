@@ -1,0 +1,17 @@
+#央视
+CCTV1综合,https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
+
+CCTV6电影,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203302.m3u8
+
+CCTV8电视剧,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203902.m3u8
+
+CCTV9记录,http://183.207.255.207/live/program/live/cctv9/1200000/mnf.m3u8
+
+CCTV10科教,http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
+
+CCTV12社会与法,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8
+
+CCTV13新闻,https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
+
+CCTV发现之旅,http://121.51.249.19/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226018/index.m3u8
+#
