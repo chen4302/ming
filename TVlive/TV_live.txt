@@ -246,7 +246,7 @@ CCTV高尔夫网球,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012512
 贺岁影院,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 超级电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
 仙侠玄幻,http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
-豆瓣高分,http://wtv.weetai.cn/iptv/2022/tyzb04.php?id=1800558
+豆瓣高分,http://epg.112114.xyz/douyu/8770422
 高分经典,http://wtv.weetai.cn/iptv/2022/tyzb09.php?id=6079455
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 黑帮系列,http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
