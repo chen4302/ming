@@ -1,3 +1,3 @@
 #测试测试
-源,htthttps://ss.rongliren.com/api/video/m3u8?id=10538&admin=1
+源,http://1465.vod.adultiptv.net/ph5b7ee27f31261/play.m3u8&admin=1
 #
