@@ -1,4 +1,6 @@
 #测试
 测试,http://akm-tct.douyucdn.cn/live/8770422rhCsy8gTS.flv
 1,http://epg.112114.xyz/douyu/8770422
+CCTV4美洲,http://lu1.cc/c/tv/sjtv/p/migu.php?id=cctv4a
+CCTV4欧洲,http://lu1.cc/c/tv/sjtv/p/migu.php?id=cctv4o
 #
