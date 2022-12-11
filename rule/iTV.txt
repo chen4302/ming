@@ -6,26 +6,12 @@
 
 
 //TVbox
-神器每日推送,https://xn--m7r412advb92j21st65a.tk/live.txt
 
-ray,http://home.jundie.top:81/ray/tvlive.txt
-
-Cat,http://home.jundie.top:81/Cat/tv/live.txt
-
-mytv,https://9xi4o.tk/sub/mytv.txt
-
-maolive,https://f.cyao.tk/maolive.txt
-
-Yoursmile7,https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
-
-mmmgit,https://freed.yuanhsing.cf/tv/live.txt
-
-0903zh,https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/0903zh.txt
 
 
 
 //音乐电台
-广播电台,https://gcore.jsdelivr.net/gh/imDazui/Tvlist-awesome-m3u-m3u8@master/m3u/广播电台2021.m3u
+
 
 
 
@@ -33,7 +19,7 @@ mmmgit,https://freed.yuanhsing.cf/tv/live.txt
 //18+++
 18++,http://shuyuan.miaogongzi.net/shuyuan/1670721720.txt
 
-18++++,http://shuyuan.miaogongzi.net/shuyuan/1670747660.txt
+18+++,http://shuyuan.miaogongzi.net/shuyuan/1670747660.txt
 
 苹果艾薇,http://shuyuan.miaogongzi.net/shuyuan/1670834670.txt
 
