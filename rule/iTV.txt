@@ -15,6 +15,8 @@
 
 18+++,http://shuyuan.miaogongzi.net/shuyuan/1670747660.txt
 
+yanse,http://43.140.205.222:3000/InMemory/iptv/src/branch/master/rule/yanse.txt
+
 //需要整理
 苹果艾薇,http://shuyuan.miaogongzi.net/shuyuan/1670834670.txt
 
