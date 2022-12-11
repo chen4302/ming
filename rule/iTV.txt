@@ -3,24 +3,19 @@
 
 直播频道,http://shuyuan.miaogongzi.net/shuyuan/1670489093.txt
 
-
-
 //TVbox
 
+//18成人频道
+成人频道,http://shuyuan.miaogongzi.net/shuyuan/1670853627.txt
 
-
-
-//音乐电台
-
-
-
-
+福利精选http://shuyuan.miaogongzi.net/shuyuan/1670798891.txt
 
 //18+++
 18++,http://shuyuan.miaogongzi.net/shuyuan/1670721720.txt
 
 18+++,http://shuyuan.miaogongzi.net/shuyuan/1670747660.txt
 
+//需要整理
 苹果艾薇,http://shuyuan.miaogongzi.net/shuyuan/1670834670.txt
 
 YanG-1989,https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
@@ -30,3 +25,4 @@ gjwj666,https://ghproxy.com/https://raw.githubusercontent.com/gjwj666/jichang/ma
 Adultiptv,http://adultiptv.net/lists/all.m3u
 
 1024,https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/0903zh.txt
+
