@@ -1,5 +1,5 @@
 //影视直播
-影视直播,https://gitcode.net/yml329/iptv/-/raw/master/TVlive/TV_live.txt
+影视直播,https://gitcode.net/yml329/iptv/-/raw/master/iTV/iTV_live.txt
 
 直播频道,http://shuyuan.miaogongzi.net/shuyuan/1670489093.txt
 
