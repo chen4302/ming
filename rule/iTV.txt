@@ -1,21 +1,19 @@
 //影视直播(已整理)
 TVlive,https://gitcode.net/yml329/iptv/-/raw/master/iTV/iTV_live.txt
 
-电视频道,http://shuyuan.miaogongzi.net/shuyuan/1670489093.txt
-
 //18成人频道(已整理)
 成人频道,http://shuyuan.miaogongzi.net/shuyuan/1670853627.txt
 
 福利精选,http://shuyuan.miaogongzi.net/shuyuan/1670798891.txt
 
 //18+++(已整理)
-18+在线,http://shuyuan.miaogongzi.net/shuyuan/1670747660.txt
+18+在线,http://shuyuan.miaogongzi.net/shuyuan/1670842283.txt
 
 yanse,http://43.140.205.222:3000/InMemory/iptv/raw/branch/master/rule/yanse.txt
 
 AdultsTopPlay(1307),https://gitcode.net/yml329/iptv/-/raw/master/rule/AdultsTopPlay(1307).m3u
 
-在线欧美(602),https://gitcode.net/yml329/iptv/-/raw/master/rule/18+在线欧美(602).m3u
+在线欧美(602),http://shuyuan.miaogongzi.net/shuyuan/1670898228.txt
 
 //收集
 18+Adultiptv直播(43),http://adultiptv.net/lists/all.m3u
@@ -24,7 +22,7 @@ AdultsTopPlay(1307),https://gitcode.net/yml329/iptv/-/raw/master/rule/AdultsTopP
 
 18+金叶直播(54),https://gitcode.net/yml329/iptv/-/raw/master/rule/18+金叶直播(54).m3u
 
-xxx(46),https://gitcode.net/yml329/iptv/-/raw/master/rule/xxx(46).m3u
+xxx(46), http://shuyuan.miaogongzi.net/shuyuan/1670887994.txt
 
 YanG-1989(10143),https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
 
