@@ -4,13 +4,12 @@ TVlive(央视),https://gitcode.net/yml329/iptv/-/raw/master/iTV/iTV_live.txt
 移动频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/移动频道.txt
 
 //🎎测试频道
+影视频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/影视频道.txt
+
 地方频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/地方频道.txt
 
 少儿频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/少儿频道.txt
 
-影视频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/影视频道.txt
-
-港澳台,https://gitcode.net/yml329/iptv/-/raw/master/iTV/港澳台频道.txt
 
 
 //🎎18+成人频道(已整理)
