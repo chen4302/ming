@@ -1,11 +1,9 @@
 //🎎央视影视直播(已整理)
 TVlive(央视),https://gitcode.net/yml329/iptv/-/raw/master/iTV/iTV_live.txt
 
+移动频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/移动频道.txt
+
 //🎎测试频道
-蓝鲸直播,https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/TVbox_Free/LIVE/Free/tvbox_live.txt
-
-央视频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/央视频道.txt
-
 地方频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/地方频道.txt
 
 少儿频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/少儿频道.txt
