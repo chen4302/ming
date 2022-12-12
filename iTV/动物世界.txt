@@ -171,13 +171,13 @@
 猎豹妈妈奋斗记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6b10d45dafaa47f4a3c3444946c074c9/1200.m3u8
 猎豹妈妈育儿记(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dba9097ef49e42acb2c6597e04551fbc/1200.m3u8
 猎豹妈妈育儿记(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fca702ad83284ff0a3b883a735913060/1200.m3u8
+
+🦚丨动物世界(二),#genre#
 猎食计划1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cd732e06e7934a3daef6483c6be1afca/1200.m3u8
 猎食计划2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/497afdb07e92409fb8cb5c0249dfe6d7/1200.m3u8
 猎食计划3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/947b6c076a0c4a3ca72a1274731feb66/1200.m3u8
 猎手求生记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5bc79939a4804f199e606cc08b1bb416/1200.m3u8
 猎手生存攻略,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/703310100a944d78a5e6838f80920cd6/1200.m3u8
-
-🦚丨动物世界(二),#genre#
 鬣蜥生存攻略,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ae22dffaf28f496584fc581ab72fab9c/1200.m3u8
 林间潜伏,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/922b142fef9443218be5eaf44df0b397/1200.m3u8
 领养一只宠物狗,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ec7ccf71d6544387afbfc956f4c29ceb/1200.m3u8
@@ -349,9 +349,9 @@
 棕熊的捕鱼生活(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/388d46918ea34570a3fed5f5ceb393ee/1200.m3u8
 棕熊的捕鱼生活(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/09def25492254217aba438e7403741e2/1200.m3u8
 走出包围圈,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/38fc4f8e379445aeab6098b9ece0aa2a/1200.m3u8
-走进狗的世界,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25c049869a174f5fa5806e57a2c376bd/1200.m3u8
 
 🦚丨动物世界(三),#genre#
+走进狗的世界,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25c049869a174f5fa5806e57a2c376bd/1200.m3u8
 足球超级猎食者(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4d0dc6b22b8e48efa4a984ec990a4faf/1200.m3u8
 足球超级猎食者(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8
 一片住着熊的森林1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2ac6789acc644b55a4df03445561c56b/1200.m3u8
