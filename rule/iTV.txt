@@ -1,6 +1,18 @@
 //🎎央视影视直播(已整理)
 TVlive(央视),https://gitcode.net/yml329/iptv/-/raw/master/iTV/iTV_live.txt
 
+//🎎测试频道
+央视频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/央视频道.txt
+
+地方频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/地方频道.txt
+
+少儿频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/少儿频道.txt
+
+影视频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/影视频道.txt
+
+港澳台,https://gitcode.net/yml329/iptv/-/raw/master/iTV/港澳台频道.txt
+
+
 //🎎18+成人频道(已整理)
 成人频道(2栏),http://shuyuan.miaogongzi.net/shuyuan/1670853627.txt
 
@@ -29,7 +41,7 @@ gjwj666(3152),https://ghproxy.com/https://raw.githubusercontent.com/gjwj666/jich
 YanG-1989(10143),https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
 
 //🎎需要整理
-1024,https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/0903zh.txt
+
 
 
 
