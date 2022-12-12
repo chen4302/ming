@@ -1,16 +1,16 @@
-//影视直播(已整理)
-TVlive,https://gitcode.net/yml329/iptv/-/raw/master/iTV/iTV_live.txt
+//🎎央视影视直播(已整理)
+TVlive(央视),https://gitcode.net/yml329/iptv/-/raw/master/iTV/iTV_live.txt
 
-//18+成人频道(已整理)
-成人频道,http://shuyuan.miaogongzi.net/shuyuan/1670853627.txt
+//🎎18+成人频道(已整理)
+成人频道(2栏),http://shuyuan.miaogongzi.net/shuyuan/1670853627.txt
 
-福利精选,http://shuyuan.miaogongzi.net/shuyuan/1670798891.txt
+18+在线(3栏),http://shuyuan.miaogongzi.net/shuyuan/1670842283.txt
 
-//18+(已整理)
-18+在线,http://shuyuan.miaogongzi.net/shuyuan/1670842283.txt
+福利精选(7栏),http://shuyuan.miaogongzi.net/shuyuan/1670798891.txt
 
-在线欧美(602),http://shuyuan.miaogongzi.net/shuyuan/1670898228.txt
+在线欧美(602_4栏),http://shuyuan.miaogongzi.net/shuyuan/1670898228.txt
 
+//🎎18+(已整理)
 Adultiptv直播(43),http://adultiptv.net/lists/all.m3u
 
 xxx(46), http://shuyuan.miaogongzi.net/shuyuan/1670871391.txt
@@ -19,7 +19,8 @@ xxx(46), http://shuyuan.miaogongzi.net/shuyuan/1670871391.txt
 
 18+直播(66),http://shuyuan.miaogongzi.net/shuyuan/1670882046.txt
 
-yanse,http://43.140.205.222:3000/InMemory/iptv/raw/branch/master/rule/yanse.txt
+//🎎大容量
+yanse(2595),http://43.140.205.222:3000/InMemory/iptv/raw/branch/master/rule/yanse.txt
 
 AdultsTopPlay(1307),https://gitcode.net/yml329/iptv/-/raw/master/rule/AdultsTopPlay(1307).m3u
 
@@ -27,7 +28,7 @@ gjwj666(3152),https://ghproxy.com/https://raw.githubusercontent.com/gjwj666/jich
 
 YanG-1989(10143),https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
 
-//需要整理
+//🎎需要整理
 1024,https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/0903zh.txt
 
 
