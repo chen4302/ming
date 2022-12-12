@@ -3,22 +3,24 @@ TVlive(央视),https://gitcode.net/yml329/iptv/-/raw/master/iTV/iTV_live.txt
 
 移动频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/移动频道.txt
 
-//🎎测试频道
 影视频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/影视频道.txt
 
 动物世界,https://gitcode.net/yml329/iptv/-/raw/master/iTV/动物世界.txt
 
+//🎎正在整理中......
 地方频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/地方频道.txt
 
 
-//🎎18+成人频道(已整理)4个链接
+//🎎18+成人频道(已整理)5个链接
 成人频道(2栏),http://shuyuan.miaogongzi.net/shuyuan/1670853627.txt
 
 18+在线(3栏),http://shuyuan.miaogongzi.net/shuyuan/1670842283.txt
 
 在线欧美(4栏)602,http://shuyuan.miaogongzi.net/shuyuan/1670898228.txt
 
-福利精选(7栏),http://shuyuan.miaogongzi.net/shuyuan/1670798891.txt
+麻豆传媒(3栏),http://shuyuan.miaogongzi.net/shuyuan/1670886642.txt
+
+福利精选(4栏),http://shuyuan.miaogongzi.net/shuyuan/1670890566.txt
 
 //🎎18+(已整理)4个链接
 Adultiptv直播(43),http://adultiptv.net/lists/all.m3u
