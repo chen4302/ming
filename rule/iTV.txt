@@ -18,7 +18,7 @@ TVlive(央视),https://gitcode.net/yml329/iptv/-/raw/master/iTV/iTV_live.txt
 
 在线欧美(4栏)602,http://shuyuan.miaogongzi.net/shuyuan/1670898228.txt
 
-麻豆传媒(5栏),http://shuyuan.miaogongzi.net/shuyuan/1670914096.txt
+麻豆传媒(5栏),http://shuyuan.miaogongzi.net/shuyuan/1670938367.txt
 
 福利精选(4栏),http://shuyuan.miaogongzi.net/shuyuan/1670890566.txt
 
