@@ -10,6 +10,8 @@ TVlive(央视),https://gitcode.net/yml329/iptv/-/raw/master/iTV/iTV_live.txt
 //🎎正在整理中......
 地方频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/地方频道.txt
 
+港澳台频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/港澳台频道.txt
+
 
 
 
