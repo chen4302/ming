@@ -7,12 +7,14 @@ TVlive(央视),https://gitcode.net/yml329/iptv/-/raw/master/iTV/iTV_live.txt
 
 动物世界,https://gitcode.net/yml329/iptv/-/raw/master/iTV/动物世界.txt
 
-//🎎正在整理中......
+//🎎.....
 地方频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/地方频道.txt
 
 港澳台频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/港澳台频道.txt
 
 韩国频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/韩国频道.txt
+
+河南党员教育服务网直播线路,https://gitcode.net/yml329/iptv/-/raw/master/iTV/河南党员教育服务网直播线路.txt
 
 
 
