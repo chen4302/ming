@@ -4,7 +4,7 @@ CCTV6电影,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv6h
 CCTV8电视剧,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv8hd/4000000/mnf.m3u8
 CCTV9记录,http://183.207.255.207/live/program/live/cctv9/1200000/mnf.m3u8
 CCTV10科教,http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
-CCTV12社会与法,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv12/1300000/mnf.m3u8
+CCTV12社会与法,http://123.6.9.146/live/jz-cctv-12/live.m3u8
 CCTV13新闻,https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
 CCTV发现之旅,http://111.20.35.103:6610/yinhe/2/ch00000090990000001314/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
