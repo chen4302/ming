@@ -1905,6 +1905,7 @@ CGTN纪录,http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8
 
 灵丘电视台,https://stream.icelook.cn/1a7c625fde427dc3/6735154231323395076_1611041008.m3u8?auth_key=1893456000-0-0-fe9d45877d8cdddb4afccd9c1a12f3f8
 
+📡四川,#genre#
 四川科教频道,http://3017ugjo.live2.danghongyun.com/live/hls/4dc0e927160647a2bd585cb5495810be/3c2126c925204cddb74a3534b97e2765-1.m3u8
 
 四川乡村,http://ep.b1791.com/php/sctv.php?id=scxc
@@ -2145,6 +2146,7 @@ CGTN纪录,http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8
 
 武清综合频道,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8
 
+📡新疆,#genre#
 伊犁汉语综合,http://110.153.180.106:55555/out_1/index.m3u8
 
 伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8
@@ -2181,6 +2183,7 @@ CGTN纪录,http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8
 
 拉萨汉语综合,http://file.lasatv.cn/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
 
+📡云南,#genre#
 云南澜湄国际,http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
 
 昆明新闻综合,http://wshls.live.migucloud.com/live/01YCQY7M_C0/playlist.m3u8
@@ -2315,6 +2318,7 @@ CGTN纪录,http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8
 
 石屏综合,http://live.ynurl.com/video/s10059-SPTV/index.m3u8
 
+📡浙江,#genre#
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8
@@ -2497,6 +2501,7 @@ CGTN纪录,http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8
 
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 
+📡网络,#genre#
 黑莓电竞,http://39.135.138.58:18890/PLTV/88888888/224/3221225653/index.m3u8
 
 黑莓电竞,http://39.135.138.58:18890/PLTV/88888888/224/3221225749/index.m3u8
@@ -2515,6 +2520,7 @@ CGTN纪录,http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8
 
 纯享4K,http://39.135.138.58:18890/ysten-businessmobile/live/HD-20M-2160P-chunxiang4k/1.m3u8
 
+📡NewTV,#genre#
 魅力广东,http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVguangdongstv/1.m3u8
 
 魅力广西,http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVguangxistv/1.m3u8
@@ -2585,6 +2591,7 @@ NewTV超级电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225625/ind
 
 NewTV超级电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225765/index.m3u8
 
+📡景区,#genre#
 北京-水长城01,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
 
 北京-水长城02,https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
