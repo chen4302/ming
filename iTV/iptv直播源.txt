@@ -1,5 +1,3 @@
-//直播源来源地址(已校)https://cdn.jsdelivr.net/gh/zbefine/iptv/iptv.txt
-
 🇨🇳央视,#genre#
 
 CCTV-1HD,http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
