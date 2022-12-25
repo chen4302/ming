@@ -1,7 +1,7 @@
 //🎎央视影视直播(已整理)
 TVlive(央视),https://gitcode.net/yml329/iptv/-/raw/master/iTV/iTV_live.txt
 
-党育服务网直播线路,https://gitcode.net/yml329/iptv/-/raw/master/iTV/党育服务网直播线路.txt
+党教服务网线路,https://gitcode.net/yml329/iptv/-/raw/master/iTV/党教服务网直播线路.txt
 
 移动频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/移动频道.txt
 
