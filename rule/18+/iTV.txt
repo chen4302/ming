@@ -1,0 +1,32 @@
+//🎎18+成人频道(已整理)5个链接
+成人18频道(3栏),http://shuyuan.miaogongzi.net/shuyuan/1671277404.txt
+
+18+在线(4栏),http://shuyuan.miaogongzi.net/shuyuan/1670988888.txt
+
+在线欧美(4栏)602,http://shuyuan.miaogongzi.net/shuyuan/1670898228.txt
+
+麻豆传媒(5栏),http://shuyuan.miaogongzi.net/shuyuan/1670938367.txt
+
+福利精选(4栏),http://shuyuan.miaogongzi.net/shuyuan/1670890566.txt
+
+//🎎18+(已整理)5个链接
+Adultiptv直播(43),http://adultiptv.net/lists/all.m3u
+
+xxx(46), http://shuyuan.miaogongzi.net/shuyuan/1670999615.txt
+
+18+金叶直播(54),http://shuyuan.miaogongzi.net/shuyuan/1670897755.txt
+
+18+直播(57),http://shuyuan.miaogongzi.net/shuyuan/1671003050.txt
+
+收集,https://gitcode.net/yml329/iptv/-/raw/master/rule/18+/18+cjw/收集.txt
+
+//🎎大容量4个链接
+yanse(2595),http://43.140.205.222:3000/InMemory/iptv/raw/branch/master/rule/yanse.txt
+
+AdultsTopPlay(1307),https://gitcode.net/yml329/iptv/-/raw/master/rule/AdultsTopPlay(1307).m3u
+
+gjwj666(3152),https://ghproxy.com/https://raw.githubusercontent.com/gjwj666/jichang/main/chuanmei.m3u
+
+YanG-1989(10143),https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
+
+//---------------------------------------------
