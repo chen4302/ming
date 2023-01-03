@@ -18,7 +18,7 @@ xxx(46), http://shuyuan.miaogongzi.net/shuyuan/1670999615.txt
 
 18+直播(57),http://shuyuan.miaogongzi.net/shuyuan/1671003050.txt
 
-收集,https://gitcode.net/yml329/iptv/-/raw/master/rule/18+/18+cjw/收集.txt
+收集,https://gitcode.net/yml329/iptv/-/raw/master/rule/18+/收集.txt
 
 //🎎大容量4个链接
 yanse(2595),http://43.140.205.222:3000/InMemory/iptv/raw/branch/master/rule/yanse.txt
