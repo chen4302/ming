@@ -21,7 +21,7 @@ xxx(46), http://shuyuan.miaogongzi.net/shuyuan/1670999615.txt
 收集,https://gitcode.net/yml329/iptv/-/raw/master/rule/18+/收集.txt
 
 //🎎大容量4个链接
-yanse(2595),http://43.140.205.222:3000/InMemory/iptv/raw/branch/master/rule/yanse.txt
+yanse(2595),https://gitcode.net/yml329/iptv/-/raw/master/rule/18+/yanse.txt
 
 AdultsTopPlay(1307),https://gitcode.net/yml329/iptv/-/raw/master/rule/AdultsTopPlay(1307).m3u
 
