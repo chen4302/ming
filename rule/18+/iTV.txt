@@ -18,8 +18,7 @@ xxx(46), http://shuyuan.miaogongzi.net/shuyuan/1670999615.txt
 
 18+直播(57),http://shuyuan.miaogongzi.net/shuyuan/1671003050.txt
 
-台湾p2p
-https://gitcode.net/egwang186/iptv/-/raw/master/onebox/台湾p2p.txt
+台湾p2p,https://gitcode.net/egwang186/iptv/-/raw/master/onebox/台湾p2p.txt
 
 收集,https://gitcode.net/yml329/iptv/-/raw/master/rule/18+/收集.txt
 
