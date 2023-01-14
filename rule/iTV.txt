@@ -9,6 +9,8 @@ TVlive(央视),https://gitcode.net/yml329/iptv/-/raw/master/iTV/iTV_live.txt
 
 动物世界,https://gitcode.net/yml329/iptv/-/raw/master/iTV/动物世界.txt
 
+乐猪影视直播,https://gitcode.net/yml329/iptv/-/raw/master/iTV/乐猪影视直播.txt
+
 //🎎.....
 地方频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/地方频道.txt
 
