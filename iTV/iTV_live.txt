@@ -2,7 +2,7 @@
 CCTV1综合,https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
 CCTV6电影,http://123.6.9.146/live/jz-cctv-6/live.m3u8
 CCTV8电视剧,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv8hd/4000000/mnf.m3u8
-CCTV9记录,http://183.207.255.207/live/program/live/cctv9/1200000/mnf.m3u8
+CCTV9记录,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8?
 CCTV10科教,http://123.6.9.146/live/jz-cctv-10/live.m3u8
 CCTV12社会与法,http://123.6.9.146/live/jz-cctv-12/live.m3u8
 CCTV13新闻,https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
