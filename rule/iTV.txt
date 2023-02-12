@@ -27,7 +27,7 @@ IPTV直播源,https://gitcode.net/yml329/iptv/-/raw/master/iTV/iptv直播源.txt
 
 TVbox直播,http://shuyuan.miaogongzi.net/shuyuan/1670489093.txt
 
-TVbox测试,http://mtw.so/5CXYfc
+TVbox测试,https://gitcode.net/yml329/iptv/-/raw/master/iTV/TVlive.txt
 
 
 
