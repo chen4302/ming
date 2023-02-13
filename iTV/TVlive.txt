@@ -80,28 +80,20 @@ NewTV超级电视剧,http://39.135.7.4:6610/000000001000/1000000004000024993/ind
 超级电视剧,http://39.134.136.141:6610/000000001000/1000000004000024993/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=3?$4M 1080P
 超级电视剧,http://39.135.7.4:6610/000000001000/1000000001000008139/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=3?$2.5M 1080P
 超级电视剧,http://39.135.7.4:6610/000000001000/1000000004000024993/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=3?$4M 1080P
+庆余年(斗鱼),http://qytv.win86.top/tv/dytv.php?id=7489563$斗鱼
+万合天宜(斗鱼),http://qytv.win86.top/tv/dytv.php?id=9220456$斗鱼
 
 💞电影频道,#genre#
-庆余年,http://qytv.win86.top/tv/dytv.php?id=7489563$斗鱼
-
-万合天宜,http://qytv.win86.top/tv/dytv.php?id=9220456$斗鱼
-
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
 喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-
-1905电影,http://111.177.34.81/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://111.177.34.80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://111.177.34.74/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://111.177.34.73/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://111.177.34.68/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://111.177.34.67/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://111.177.34.69/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://111.177.34.66/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://115.231.128.16/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://115.231.128.80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://115.231.128.81/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://115.231.128.73/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://120.220.38.30/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://120.220.38.28/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://120.220.38.16/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://120.220.38.29/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://120.220.38.27/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://124.132.156.25/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://120.226.188.224:80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://120.226.188.135:80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://120.226.188.136:80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8#https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
-
 CHC动作电影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
 CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1#http://117.148.179.157/PLTV/88888888/224/3221231580/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232945/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8#http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
-
 CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
 CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232942/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1#http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
-
 CHC高清电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 CHC高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
+1905电影频道,http://111.177.34.81/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://111.177.34.80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://111.177.34.74/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://111.177.34.73/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://111.177.34.68/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://111.177.34.67/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://111.177.34.69/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://111.177.34.66/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://115.231.128.16/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://115.231.128.80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://115.231.128.81/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://115.231.128.73/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://120.220.38.30/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://120.220.38.28/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://120.220.38.16/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://120.220.38.29/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://120.220.38.27/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://124.132.156.25/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://120.226.188.224:80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://120.226.188.135:80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8#http://120.226.188.136:80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 
 CHC动作电影,http://111.20.40.160/PLTV/88888893/224/3221226465/index.m3u8
 CHC动作电影,http://1.204.169.243/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR?$8M 1080P
@@ -200,8 +192,6 @@ CHC家庭影院,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/
 爱世界,http://39.135.7.4:6610/000000001000/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3?$7.2M 1080P
 爱探索,http://39.134.136.141:6610/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3?$7.2M 1080P
 爱探索,http://39.135.7.4:6610/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3?$7.2M 1080P
-爱旅行,http://39.134.136.141:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3?$7.2M 1080P
-爱旅行,http://39.135.7.4:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3?$7.2M 1080P
 
 🏖IPTV频道,#genre#
 动作影院,http://1.204.169.243/live.aishang.ctlcdn.com/00000110240277_1/playlist.m3u8?CONTENTID=00000110240277_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR?$576P
@@ -293,7 +283,6 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 河南梨园,http://123.6.9.146/live/jz-henanliyuan/live.m3u8 
 河南新农村,http://123.6.9.146/live/jz-henanxinnong/live.m3u8 
 河南文物宝库,http://123.6.9.146/live/jz-henanwenwu/live.m3u8 
-金鹰卡通,http://123.6.9.146/live/jz-jinyingkatong/live.m3u8
 
 
 法治天地,http://119.167.224.150/liveplay-kk.rtxapp.com/live/program/live/fztd/1300000/mnf.m3u8
@@ -323,36 +312,15 @@ CCTV13,http://218.29.55.44:808/hls/13/index.m3u8
 CCTV14,http://218.29.55.44:808/hls/14/index.m3u8
 CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-CCTV17,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204202.m3u8
-CCTV17,http://124.220.17.172/as.php?id=17
-CCTV4K,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000266303.m3u8
-CCTV发现之旅,http://121.51.249.19/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226018/index.m3u8
-CCTV发现之旅,http://m.a1.gs/p/migu.php?id=fxzl
-CCTV发现之旅,http://yfsl.vsd.gehua.net.cn/live/FaXianZhiLv_2000.m3u8
+CCTV发现之旅,http://111.20.35.103:6610/yinhe/2/ch00000090990000001314/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV发现之旅,http://baidu.live.cqccn.com/__cl/cg:live/__c/faxian/__op/default/__f//index.m3u8
 CCTV发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
-CCTV电视指南,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514003.m3u8
-CCTV电视指南,http://218.17.216.102:9901/tsfile/live/1064_1.m3u8
-CCTV风云足球,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514203.m3u8
-CCTV风云足球,http://218.17.216.102:9901/tsfile/live/1065_1.m3u8
 CCTV怀旧剧场,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012511203.m3u8
 CCTV怀旧剧场,http://218.17.216.102:9901/tsfile/live/1069_1.m3u8
 CCTV风云剧场,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513603.m3u8
 CCTV风云剧场,http://218.17.216.102:9901/tsfile/live/1070_1.m3u8
-CCTV央视台球,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513703.m3u8
-CCTV央视台球,http://218.17.216.102:9901/tsfile/live/1066_1.m3u8
-CCTV央视文化,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513803.m3u8
-CCTV央视文化,http://218.17.216.102:9901/tsfile/live/1071_1.m3u8
-CCTV兵器科技,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513403.m3u8
-CCTV兵器科技,http://218.17.216.102:9901/tsfile/live/1027_1.m3u8
 CCTV第一剧场,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514403.m3u8
 CCTV第一剧场,http://218.17.216.102:9901/tsfile/live/1072_1.m3u8
-CCTV风云音乐,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514103.m3u8
-CCTV风云音乐,http://218.17.216.102:9901/tsfile/live/1073_1.m3u8
-CCTV世界地理,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513303.m3u8
-CCTV世界地理,http://218.17.216.102:9901/tsfile/live/1068_1.m3u8
-CCTV卫生健康,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513503.m3u8
-CCTV女性时尚,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513903.m3u8
-CCTV高尔夫网球,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012512503.m3u8
 
 CCTV1,https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
 CCTV6,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203302.m3u8
@@ -377,8 +345,6 @@ CCTV12,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
 CCTV14,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204403.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
-CCTV4美洲,http://lu1.cc/c/tv/sjtv/p/migu.php?id=cctv4a
-CCTV4欧洲,http://lu1.cc/c/tv/sjtv/p/migu.php?id=cctv4o
 CCTV16,http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
 
 CCTV1,http://124.220.17.172/as.php?id=1
@@ -398,6 +364,16 @@ CCTV13,http://124.220.17.172/as.php?id=13
 CCTV14,http://124.220.17.172/as.php?id=14
 CCTV15,http://124.220.17.172/as.php?id=15
 CCTV16,http://124.220.17.172/as.php?id=16
+
+CCTV1,https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
+CCTV6,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203302.m3u8
+CCTV8,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203902.m3u8
+CCTV9,http://183.207.255.207/live/program/live/cctv9/1200000/mnf.m3u8
+CCTV10,http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
+CCTV12,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8
+CCTV13,https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
+CCTV发现之旅,http://121.51.249.19/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226018/index.m3u8
+CCTV发现之旅,http://baidu.live.cqccn.com/__cl/cg:live/__c/faxian/__op/default/__f//index.m3u8
 
 📡卫视,#genre#
 内蒙古卫视,http://218.29.55.44:808/hls/50/index.m3u8
