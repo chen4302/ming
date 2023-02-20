@@ -32,4 +32,6 @@ gjwj666(3152),https://ghproxy.com/https://raw.githubusercontent.com/gjwj666/jich
 YanG-1989(10143),https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
 
 TVbox直播,http://shuyuan.miaogongzi.net/shuyuan/1670747660.txt
+
+月光宝盒,https://gitlab.com/ygbh1/666/-/raw/main/ZB/bhzb.txt
 //---------------------------------------------
