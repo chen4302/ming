@@ -21,7 +21,7 @@ var filename = '资源采集远程索引.txt';
 if (_.read(filename)) {
   var code = _.read(filename).match(/.+?,.+/g);
 } else {
-  var data = "内置,https://gitcode.net/egwang186/iptv/-/raw/master/zywcj/资源网采集.txt";
+  var data = "内置,https://gitcode.net/yml329/iptv/-/raw/master/rule/18+/18+cjw/18+采集.txt";
   _.write(data, filename);
   var code = _.read(filename).match(/.+?,.+/g);
 }
