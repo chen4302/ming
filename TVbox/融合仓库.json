@@ -1,24 +1,20 @@
 {
   "urls": [
     {
+      "url": "http://miaotvs.cn/meow",
+      "name": "✨喵影视TV(自动更新)"
+    },
+    {
       "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
       "name": "✨自动更新1"
     },
     {
-      "url": "http://miaotvs.cn/meow",
-      "name": "✨自动更新2"
-    },
-    {
-      "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-      "name": "✨小苹果"
-   },
-    {
-      "url": "http://miaotvs.cn/osc",
-      "name": "✨酷云七七(爬虫)"
-    },
-    { 
       "url": "https://gitee.com/ymlTV/yml329/raw/master/TV/yml.json",
       "name": "✨Yml(爬虫看直播)"
+    },
+    { 
+      "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+      "name": "✨小苹果"
     },
     {
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json",
