@@ -13,15 +13,11 @@
       "name": "✨小苹果"
    },
     {
-      "url": "http://152.136.125.181:81/MM/dianbos/yeshijieB.json",
-      "name": "✨乐猪影视"
-    },
-    {
       "url": "http://miaotvs.cn/osc",
       "name": "✨酷云七七(爬虫)"
     },
     { 
-      "url": "http://mtw.so/6m5fA3",
+      "url": "https://gitee.com/ymlTV/yml329/raw/master/TV/yml.json",
       "name": "✨Yml(爬虫看直播)"
     },
     {
