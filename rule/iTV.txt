@@ -29,7 +29,7 @@ TVbox直播,http://shuyuan.miaogongzi.net/shuyuan/1670489093.txt
 
 TVbox测试,https://gitcode.net/yml329/iptv/-/raw/master/iTV/TVlive.txt
 
-TVbox,https://gitee.com/ymlTV/yml329/raw/master/TV/TVlive.txt
+TVbox,https://gitee.com/ymlTV/yml329/raw/master/TV/TVbox/TVlive.txt
 
 
 
