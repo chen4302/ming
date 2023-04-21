@@ -7,14 +7,14 @@ TVlive(央视),https://gitcode.net/yml329/iptv/-/raw/master/iTV/iTV_live.txt
 
 动物世界,https://gitcode.net/yml329/iptv/-/raw/master/iTV/动物世界.txt
 
+TVbox直播,https://gitee.com/ymlTV/yml329/raw/master/TV/TVbox/TVlive.txt
+
 //🎎.....
 地方频道,https://gitcode.net/yml329/iptv/-/raw/master/iTV/地方频道.txt
 
 //🎎直播源来源地址(已校)https://cdn.jsdelivr.net/gh/zbefine/iptv/iptv.txt
 
-IPTV直播源,https://gitcode.net/yml329/iptv/-/raw/master/iTV/iptv直播源.txt
 
-TVbox,https://gitee.com/ymlTV/yml329/raw/master/TV/TVbox/TVlive.txt
 
 
 
