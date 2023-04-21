@@ -10,7 +10,7 @@ TVlive(央视),https://gitcode.net/yml329/iptv/-/raw/master/iTV/iTV_live.txt
 TVbox直播,https://gitee.com/ymlTV/yml329/raw/master/TV/TVbox/TVlive.txt
 
 //🎎.....
-喵影视直播,http://111.67.196.181/zhibo.txt
+影视盒子直播,http://9xi4o.tk/sub/mytv.txt
 
 //🎎直播源来源地址(已校)https://cdn.jsdelivr.net/gh/zbefine/iptv/iptv.txt
 
