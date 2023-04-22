@@ -7,7 +7,7 @@ TVlive(央视),https://gitcode.net/yml329/iptv/-/raw/master/iTV/iTV_live.txt
 
 动物世界,https://gitcode.net/yml329/iptv/-/raw/master/iTV/动物世界.txt
 
-TVbox直播,https://gitee.com/ymlTV/yml329/raw/master/TV/TVbox/TVlive.txt
+TVbox直播,https://gitee.com/ymlTV/yml329/raw/master/TV/TVbox/yml/TVlive.txt
 
 //🎎.....
 影视盒子直播,http://9xi4o.tk/sub/mytv.txt
