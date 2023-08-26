@@ -1,28 +1,12 @@
 {
   "urls": [
     {
-      "url": "http://miaotvs.cn/meow",
-      "name": "✨喵影视TV(自动更新)"
+      "url": "http://肥猫.love",
+      "name": "✨肥猫原版"
     },
     {
-      "url": "https://raw.liucn.cc/box/m.json",
-      "name": "✨影视盒子(自动更新)"
-    },
-    {
-      "url": "http://mtw.so/5Di4Ge",
-      "name": "✨Yml(爬虫看直播)"
-    },
-    {
-      "url": "https://dxawi.github.io/0/0.json",
-      "name": "✨骚零在线(小伟)"
-    },
-    { 
-      "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-      "name": "✨小苹果"
-    },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json",
-      "name": "✨一木缝合源(看阿里4K)"
+      "url": "http://饭太硬.top/tv",
+      "name": "✨饭太硬原版"
     }
   ]
 }
