@@ -63,7 +63,7 @@ for(var j=0;j<LIMIT;j++){
     }else if(预图片.indexOf("http")!=-1){
     var 图片=预图片.match(/.*(http.*[a-zA-Z])/)[1];
     }else if(预图片==""){
-    var 图片="https://egwang186.coding.net/p/egwang186/d/iptv/git/raw/master/js2.0/kongbai.png";
+    var 图片="http://59.47.74.33:3000/apis/my-github/egwang186/iptv/main/onebox/kongbai.gif";
     }else if(预图片.indexOf("//")!=-1){
     var 图片="http:"+预图片;
     }else{
@@ -103,6 +103,9 @@ var 标题规则=".json(vod_name)";var 地址规则=".c(&ac=videolist&ids=).json
       if(baseURL.indexOf("/videos")!=-1){
       var 列表=e2Arr(源码.replace(/<.*?>/g,""),".json(list)");
 var 标题规则=".json(vod_name)";var 地址规则=".c(?ac=detail&ids=).json(vod_id)";var 图片规则=".json(vod_pic)";var 简介规则=".c(<font color='#0997F7'><b>).json(vod_play_from).ct(</b></font>)";var 图片底部规则=".json(vod_time)";var 左上规则=".tx(<p style='background-color:#0997F7'><font color='white' size='40px'>).json(type_name).ct(</font></p>)";var 右上规则=".tx(<p style='background-color:#CC00FF'><font color='white'>).json(vod_remarks).ct(</font></p>)";通用列表();   
+      }else if(baseURL.indexOf("/provide/art/")!=-1){
+            var 列表=e2Arr(源码.replace(/<.*?>/g,""),".json(list)");
+            var 标题规则=".json(vod_name).or().json(art_name)";var 地址规则=".c(?ac=detail&ids=).json(vod_id).or().json(art_id)";var 图片规则=".json(vod_pic).or().json(art_pic)";var 简介规则=".c(<font color='#0997F7'><b>).json(vod_play_from).ct(</b></font>).or().json(art_from).ct(</b></font>)";var 图片底部规则=".json(vod_time).or().json(art_time)";var 左上规则=".tx(<p style='background-color:#0997F7'><font color='white' size='40px'>).json(type_name).ct(</font></p>)";var 右上规则=".tx(<p style='background-color:#CC00FF'><font color='white'>).json(vod_remarks).ct(</font></p>).or().json(vod_remark).ct(</font></p>).or().json(art_remarks).ct(</font></p>)";通用列表();
       }else{
       var 列表=e2Arr(源码.replace(/<.*?>/g,""),".json(list)");
 var 标题规则=".json(vod_name).or().json(art_name)";var 地址规则=".c(?ac=videolist&ids=).json(vod_id).or().json(art_id)";var 图片规则=".json(vod_pic).or().json(art_pic)";var 简介规则=".c(<font color='#0997F7'><b>).json(vod_play_from).ct(</b></font>).or().json(art_from).ct(</b></font>)";var 图片底部规则=".json(vod_time).or().json(art_time)";var 左上规则=".tx(<p style='background-color:#0997F7'><font color='white' size='40px'>).json(type_name).ct(</font></p>)";var 右上规则=".tx(<p style='background-color:#CC00FF'><font color='white'>).json(vod_remarks).ct(</font></p>).or().json(vod_remark).ct(</font></p>).or().json(art_remarks).ct(</font></p>)";通用列表();
@@ -131,6 +134,9 @@ for(var i=0;i<分类.length;i++){
           var 选集=j+1;
         }
         var 选集地址=e2Rex(列表[j],选集地址规则);
+        if(选集地址.indexOf("http")>=0){
+            选集地址=选集地址.match(/http.+/)[0];
+        }
 //开始根据网址，线路判断前缀
 if(标题=="xhzy"){
       选集地址=选集地址;
@@ -139,7 +145,7 @@ if(标题=="xhzy"){
 }else if(URL.indexOf("api.yjiexi.com")!=-1){
       选集地址="http://player.yjiexi.com/player?url="+选集地址;
 }else if(标题=="mdm3u8"){
-      选集地址="https://m3u8.mudan01.online/?url="+选集地址;
+      选集地址="https://bfq.bukazyw.com/?url="+选集地址;
 }else if(标题=="tankem3u8"){
       选集地址="https://api.tangk2.com/dplayer/?url="+选集地址;
 }else if(URL.indexOf("hikan.xyz")!=-1){
@@ -267,8 +273,13 @@ var 列表规则=".fg(#)";
 var 标题规则=".t()";
 var 选集规则=".tz($)";选集列表();
 }else{
-      if(URL.indexOf("61783.xyz")!=-1){
-var 分类=e2Arr(getVar("源码").replace(/<.*?>/g,""),".json(list).json(art_remarks).fg(\\$\\$\\$)");
+      if(URL.indexOf("provide/art/")!=-1){
+            if(e2Rex(getVar("源码").replace(/<.*?>/g,""),".json(list).json(art_content)")){
+                  var 分类=e2Arr(getVar("源码").replace(/<.*?>/g,""),".json(list).json(art_content).fg(\\$\\$\\$)");
+            }else{
+                  var 分类=e2Arr(getVar("源码").replace(/<.*?>/g,""),".json(list).json(art_blurb).fg(\\$\\$\\$)");
+            }
+
 var 线路=e2Arr(getVar("源码").replace(/<.*?>/g,""),".json(list).json(art_name).fg(\\$\\$\\$)");
 var 选集地址规则=".z2(\\$\\(.*\\)).or().z(.*)";
 var 简介=e2Rex(getVar("源码"),".c(演员表:).json(list).json(art_author).c(<br>简介:).json(list).json(art_name)");
@@ -302,7 +313,7 @@ for(var j=0;j<LIMIT;j++){
     }else if(预图片.indexOf("http")!=-1){
     var 图片=预图片;
     }else if(预图片==""){
-    var 图片="https://egwang186.coding.net/p/egwang186/d/iptv/git/raw/master/js2.0/kongbai.png";
+    var 图片="http://59.47.74.33:3000/apis/my-github/egwang186/iptv/main/onebox/kongbai.gif";
     }else if(预图片.indexOf("//")!=-1){
     var 图片="http:"+预图片;
     }else{
