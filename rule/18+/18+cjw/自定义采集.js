@@ -4,26 +4,26 @@ var filename = '资源采集远程索引.txt';
 var 记录 = "";
 if (getVar("rurl") != 'null' && getVar("rurl").indexOf(",http") > 1) {
   记录 = getVar("rurl").match(/.+?,http.+/g);
-  if (readStr(filename)) {
-    var 旧记录 = readStr(filename).match(/.+?,http.+/g);
+  if (_.read(filename)) {
+    var 旧记录 = _.read(filename).match(/.+?,http.+/g);
     var 新记录 = 记录.concat(旧记录.filter(item=>item!=记录[0]));
   } else {
     var 新记录 = 记录;
   }
-  writeStr(filename,新记录.join("\n"));
-  readStr(filename);
+  _.write(新记录.join("\n"), filename);
+  _.read(filename);
 } else {
   "请输入正确格式(支持批量):名称,地址";
 }
 ######读取远程订阅2
 eval(readStr("QJS"));
 var filename = '资源采集远程索引.txt';
-if (readStr(filename)) {
-  var code = readStr(filename).match(/.+?,.+/g);
+if (_.read(filename)) {
+  var code = _.read(filename).match(/.+?,.+/g);
 } else {
   var data = "内置,https://gitcode.net/yml329/iptv/-/raw/master/rule/18+/18+cjw/18+采集.txt";
-  writeStr(filename,data);
-  var code = readStr(filename).match(/.+?,.+/g);
+  _.write(data, filename);
+  var code = _.read(filename).match(/.+?,.+/g);
 }
 var items = [];
 for (var i in code) {
@@ -35,7 +35,7 @@ JSON.stringify(items);
 ######单一搜索读取远程订阅3
 eval(readStr("QJS"));
 var filename = '资源采集远程索引.txt';
-var code = readStr(filename).match(/.+?,.+/g);
+var code = _.read(filename).match(/.+?,.+/g);
 var items = [];
 for (var i in code) {
   var title = code[i].split(",")[0];
@@ -46,7 +46,7 @@ JSON.stringify(items);
 ######侧边栏搜索读取远程订阅4
 eval(readStr("QJS"));
 var filename = '资源采集远程索引.txt';
-var code = readStr(filename).match(/.+?,.+/g);
+var code = _.read(filename).match(/.+?,.+/g);
 var items = [];
 for (var i in code) {
   var title = code[i].split(",")[0];
@@ -57,7 +57,7 @@ JSON.stringify(items);
 ######管理订阅5
 eval(readStr("QJS"));
 var filename='资源采集远程索引.txt';
-var code=readStr(filename).match(/.+?,.+/g);
+var code=_.read(filename).match(/.+?,.+/g);
 var items=[];
 for(var i in code){
 var title=code[i].split(",")[0];
