@@ -1,20 +1,20 @@
 //🎎18+成人频道(已整理)4个链接
 成人18频道(3栏),https://gitcode.net/yml329/iptv/-/raw/master/rule/18+/TXT/成人18频道(3栏).txt
 
-18+在线(2栏),http://shuyuan.miaogongzi.net/shuyuan/1682050559.txt
+18+在线(2栏),https://gitcode.net/yml329/iptv/-/raw/master/rule/18+/TXT/18+在线(2栏).txt
 
-麻豆传媒(5栏),http://shuyuan.miaogongzi.net/shuyuan/1670938367.txt
+麻豆传媒(5栏),https://gitcode.net/yml329/iptv/-/raw/master/rule/18+/TXT/麻豆传媒(5栏).txt
 
-福利精选(3栏),http://shuyuan.miaogongzi.net/shuyuan/1682072600.txt
+福利精选(3栏),https://gitcode.net/yml329/iptv/-/raw/master/rule/18+/TXT/福利精选(3栏).txt
 
 //🎎18+(已整理)4个链接
 Adultiptv直播(43),http://adultiptv.net/lists/all.m3u
 
-xxx(46), http://shuyuan.miaogongzi.net/shuyuan/1670999615.txt
+xxx(46), https://gitcode.net/yml329/iptv/-/raw/master/rule/18+/TXT/xxx(46).txt
 
-18+金叶直播(54),http://shuyuan.miaogongzi.net/shuyuan/1670897755.txt
+18+金叶直播(54),https://gitcode.net/yml329/iptv/-/raw/master/rule/18+/TXT/18+金叶直播(54).txt
 
-18+直播(57),http://shuyuan.miaogongzi.net/shuyuan/1671003050.txt
+18+直播(57),https://gitcode.net/yml329/iptv/-/raw/master/rule/18+/TXT/18+直播(57).txt
 
 //🎎大容量4个链接
 浮力1万+,https://vod.mycamtv.net/all.m3u
